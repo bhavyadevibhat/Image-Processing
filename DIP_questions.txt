@@ -1,0 +1,5 @@
+write a program to read an image from graphic file
+Write a program to convert binary image to indexed image vice versa
+write a program to conveert matrix to grayscale image
+write a program to convert an image to 8 bit ,16 bit unsigned integer
+write a program to add noise to image
